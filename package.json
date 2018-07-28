@@ -1,0 +1,17 @@
+{
+  "name": "phyllotaxis",
+  "version": "1.0.0",
+  "description": "Phyllotaxis design in Electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Joaquin Pinillos",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.5"
+  },
+  "dependencies": {
+    "linqjs": "0.0.6"
+  }
+}
